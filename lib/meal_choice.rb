@@ -4,4 +4,4 @@ def meal_choice (veg1, veg2, protein = "tofu")
   meal_choice
 end
 
-meal_choice ("carrots", "greens", "chicken")
+meal_choice ("carrots", "string beans", "lentils")
